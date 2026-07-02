@@ -50,27 +50,27 @@ Apps optimized for speed, stability, and scale.
 
 ### 📌 Featured Projects
 
-**[Visitly](https://apps.apple.com/us/app/visitly/id1435440007)**
+**[Visitly] [iOS](https://apps.apple.com/us/app/visitly/id1435440007)**
 SaaS mobile visitor management system — real-time check-ins, approvals, and secure notifications for employees and guests.
 `React Native` `JavaScript` `React Navigation` `Printer SDK` `Camera`
 
-**[My Visitly](https://apps.apple.com/us/app/my-visitly/id1500199942)** · [Android](https://play.google.com/store/apps/details?id=com.visitlyapp)
+**[My Visitly] [iOS](https://apps.apple.com/us/app/my-visitly/id1500199942)** · [Android](https://play.google.com/store/apps/details?id=com.visitlyapp)
 Employee-facing companion app for quick sign in/out, visitor management, invitations, and company directory access.
 `React Native` `JavaScript` `React Navigation` `Deep Linking` `Camera`
 
-**[Kan's World](https://apps.apple.com/in/app/kans-world/id6737192699)** · [Android](https://play.google.com/store/apps/details?id=com.kansworld)
+**[Kan's World] [iOS](https://apps.apple.com/in/app/kans-world/id6737192699)** · [Android](https://play.google.com/store/apps/details?id=com.kansworld)
 Education app for interactive learning, course content delivery, and progress tracking across iOS and Android.
 `React Native` `JavaScript` `React Navigation` `In-App Update` `Payment SDK`
 
-**[Innergy](https://apps.apple.com/in/app/innergy-meditation-for-stress/id1605427751)** · [Android](https://play.google.com/store/apps/details?id=com.imih.innergy)
+**[Innergy] [iOS](https://apps.apple.com/in/app/innergy-meditation-for-stress/id1605427751)** · [Android](https://play.google.com/store/apps/details?id=com.imih.innergy)
 Meditation & wellness app for stress relief, better sleep, and holistic wellbeing.
 `React Native` `TypeScript` `React Navigation` `Deep Linking` `In-App Update`
 
-**[Alloy Forge](https://play.google.com/store/apps/details?id=com.alloyforge)**
+**[Alloy Forge] [Android](https://play.google.com/store/apps/details?id=com.alloyforge)**
 Precision jewellery calculator for gold & silver — alloy composition, purity, and weight calculations for jewellers.
 `React Native` `TypeScript` `Custom Formulas` `Navigation`
 
-**[Pets Positive](https://apps.apple.com/us/app/pets-positive/id6759307808)** · [Android](https://play.google.com/store/apps/details?id=com.petspositive.app)
+**[Pets Positive] [iOS](https://apps.apple.com/us/app/pets-positive/id6759307808)** · [Android](https://play.google.com/store/apps/details?id=com.petspositive.app)
 Social platform for pet lovers — pet profiles, photo/video sharing, and real-time community interaction.
 `React Native` `TypeScript` `Redux` `LiveKit` `Stripe` `REST APIs`
 
