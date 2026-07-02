@@ -58,15 +58,6 @@ Apps optimized for speed, stability, and scale.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savanbadani98&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savanbadani98&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
 <p align="center">
   📩 Have a project that's stuck, broken, or needs to ship? <a href="https://www.upwork.com/freelancers/~017aed248310d1c664">Let's talk on Upwork</a>.
 </p>
